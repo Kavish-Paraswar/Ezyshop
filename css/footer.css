@@ -32,8 +32,10 @@
 
 .container-fluid.pt-5 {
     border-top: 1px solid rgba(23, 162, 184, .2);
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
 }
-
 .footer-social .btn {
     width: 38px;
     height: 38px;
